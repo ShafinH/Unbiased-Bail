@@ -865,6 +865,10 @@ Our Classes
   margin-bottom: 28px;
 }
 
+.center-text {
+  text-align: center;
+}
+
 /* 
 ---------------------------------------------
 schedule
